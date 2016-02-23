@@ -1,0 +1,8 @@
+.rectangulo{
+	border-style: solid;
+	border-color: red;
+	border-width: 0 0 0 250px;
+	height: 100%;
+	padding: 0;
+	margin: 0;
+}
