@@ -1,0 +1,12 @@
+html{
+    height: 100%;
+}
+body{
+    font-family: monospace;
+    height: 100%;
+    margin: 0;
+    /* modern browsers */
+background: url("../images/2261376.jpg") 0 0 no-repeat;
+url("../images/22.jpg") 100% 0 no-repeat;
+}
+
